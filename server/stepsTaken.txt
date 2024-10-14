@@ -5,3 +5,6 @@ Starting our server
   npm init -y,
   npm i express pg cors
   index.js (will be our glue )
+    middleware // app.arguments(corst());
+               app.arguments(express.json()); //access to request body and get json data
+               
