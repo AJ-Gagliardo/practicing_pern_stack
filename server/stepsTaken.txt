@@ -1,0 +1,7 @@
+Summary of things done
+
+Starting our server
+  server folder,
+  npm init -y,
+  npm i express pg cors
+  index.js (will be our glue )
